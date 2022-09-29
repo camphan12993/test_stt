@@ -37,6 +37,7 @@ dependencies:
   flutter_sound: ^9.2.13
   audio_session: ^0.1.10
   socket_io_client: ^2.0.0
+  permission_handler: ^10.0.2
 
 dev_dependencies:
   flutter_test:
